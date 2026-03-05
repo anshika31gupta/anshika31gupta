@@ -1,16 +1,49 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Anshika Gupta</h1>
+<h3 align="center">Android Developer | B.Tech ECE | DSA Learner 🚀</h3>
 
-<!--
-**anshika31gupta/anshika31gupta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech ECE Student | AKTU  
+💻 Android Development | DSA Learner  
+🚀 Passionate about building real-world applications  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Tech Stack
+- Java
+- Android Studio
+- Android SDK
+- REST APIs
+- Firebase
+- Git & GitHub
+- Data Structures & Algorithms
+
+---
+
+### 📱 Android Projects
+
+🔹 Medical Chatbot (LLM + Pinecone + AWS)  
+🔹 Android Health Assistant App  
+🔹 Notes App with Firebase  
+🔹 Task Manager App  
+
+---
+
+### 📈 Currently Learning
+- Advanced Android Development
+- System Design Basics
+- Solving DSA Problems on LeetCode
+
+---
+
+### 🏆 Achievements
+- 50 Days of Code
+- Building AI + Android Projects
+- Actively looking for Android Developer Internship
+
+---
+
+### 📫 Connect With Me
+
+LinkedIn: (add your linkedin link)  
+Email: (your email)
+
+⭐ If you like my work, check out my repositories!
