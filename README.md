@@ -8,7 +8,7 @@
 ---
 
 ### 🔧 Tech Stack
-- Java
+- Kotlin
 - Android Studio
 - Android SDK
 - REST APIs
@@ -35,7 +35,7 @@
 ---
 
 ### 🏆 Achievements
-- 50 Days of Code
+- 100 Days of Code
 - Building AI + Android Projects
 - Actively looking for Android Developer Internship
 
@@ -43,7 +43,7 @@
 
 ### 📫 Connect With Me
 
-LinkedIn: (add your linkedin link)  
-Email: (your email)
+LinkedIn: https://www.linkedin.com/in/anshika-gupta-0785ab2a1?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+Email: 2k23.ece23113991@gmail.com
 
 ⭐ If you like my work, check out my repositories!
