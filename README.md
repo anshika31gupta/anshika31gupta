@@ -13,6 +13,12 @@
 - Android SDK
 - REST APIs
 - Firebase
+- React
+- JS
+- HTML
+- CSS
+- NODE JS
+- JWT AUTHENTICATION
 - Git & GitHub
 - Data Structures & Algorithms
 
