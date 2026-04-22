@@ -2,7 +2,7 @@
 <h3 align="center">Android Developer | B.Tech ECE | DSA Learner 🚀</h3>
 
 🎓 B.Tech ECE Student | AKTU  
-💻 Android Development | DSA Learner  
+💻 Mobile App Developer|Web App Developer | DSA Enthusiast
 🚀 Passionate about building real-world applications  
 
 ---
