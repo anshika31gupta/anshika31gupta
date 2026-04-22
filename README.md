@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anshika Gupta</h1>
-<h3 align="center">Android Developer | B.Tech ECE | DSA Learner 🚀</h3>
+<h3 align="center">Mobile App Developer|Web App Developer | B.Tech ECE | DSA Enthusiast 🚀</h3>
 
 🎓 B.Tech ECE Student | AKTU  
 💻 Mobile App Developer|Web App Developer | DSA Enthusiast
