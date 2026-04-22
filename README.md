@@ -26,7 +26,9 @@
 
 ### 📱 Android Projects
 
-🔹 Medical Chatbot (LLM + Pinecone + AWS)  
+🔹 Medical Chatbot (LLM + Pinecone + AWS) 
+Invoice-Management-Billing-Software 
+DevPulse
 🔹 Android Health Assistant App  
 🔹 Notes App with Firebase  
 🔹 Task Manager App  
